@@ -1,7 +1,7 @@
 
 
 //Here are some of the arrays that I showed in the video. Make sure 
-//to updated the number of wall and sector arrays from 30 to maybe 100.
+//to update the number of wall and sector arrays from 30 to maybe 100.
 
 //---4 leg table---
 #define numSect 5
