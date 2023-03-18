@@ -54,8 +54,8 @@ void movePlayer()
  if(K.w ==1 && K.m==0){ printf("up\n");}
  if(K.s ==1 && K.m==0){ printf("down\n");}
  //strafe left, right
- if(K.sr==1){ printf("strafe left\n");}
- if(K.sl==1){ printf("strafe right\n");}
+ if(K.sl==1){ printf("strafe left\n");}
+ if(K.sr==1){ printf("strafe right\n");}
  //move up, down, look up, look down
  if(K.a==1 && K.m==1){ printf("look up\n");}
  if(K.d==1 && K.m==1){ printf("look down\n");}
